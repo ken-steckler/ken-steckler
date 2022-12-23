@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ken Steckler
+# Welcome to my repo! 👋, I'm Ken Steckler
 
 ## Thanks for visiting and welcome to my repository!
 Want to connect? <a href="https://www.linkedin.com/in/ken-steckler/">LinkedIn</a> 🤝
