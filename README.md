@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ken Steckler
 
 ## Thanks for visiting and welcome to my repository!
-Want to connect? Follow me on <a href="https://www.linkedin.com/in/ken-steckler/">LinkedIn</a>
+Want to connect? 🏻💼 <a href="https://www.linkedin.com/in/ken-steckler/">LinkedIn</a>
 
 ## My Bio 🧑🏻
 <ul>
