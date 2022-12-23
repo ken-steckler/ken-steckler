@@ -16,5 +16,5 @@
   <li> I'm learning Algorithms and Databases at OSU
   <li> I joined a team of engineers at Childhood Cancer Society as a software engineer intern to help develop the organization's website
   <li> I will be a teaching assistant for a computer science course at OSU for the 3rd quarter
-  <li> Working a revamping my portfolio website using React and TailwindCSS (expected to be complete by January 2023)
+  <li> Revamping my portfolio website using React and TailwindCSS (expected to be complete by January 2023)
 </ul>
