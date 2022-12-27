@@ -1,5 +1,6 @@
 # Welcome to my repo! 👋, My name is Ken Steckler
 Want to connect? <a href="https://www.linkedin.com/in/ken-steckler/">LinkedIn</a> 🤝
+Here's my: <a href="https://ken-steckler.netlify.app/">Portfolio</a>
 
 ## My Bio 🧑🏻
 <ul>
