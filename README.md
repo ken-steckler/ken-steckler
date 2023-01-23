@@ -1,8 +1,8 @@
-# Welcome to my repo! 👋, My name is Ken Steckler
+# Welcome to my repo! 👋
 Want to connect? <a href="https://www.linkedin.com/in/ken-steckler/">LinkedIn</a> 🤝 <br />
 Come check out my <a href="https://ken-steckler.netlify.app/">Portfolio</a> 💻
 
-## My Bio 🧑🏻
+## My Bio 🏻
 <ul>
   <li> Pursuing a Bachelor of Science in Computer Science degree at Oregon State University (go Beavs!)
   <li> I'm currently a junior with an expected graduation of 2025
@@ -10,9 +10,9 @@ Come check out my <a href="https://ken-steckler.netlify.app/">Portfolio</a> 💻
   <li> I'm currently seeking Summer 2023 and Fall 2023 software engineer internships
 </ul>
 
-## What am I doing currently? 🌱
+## What am I doing currently? 
 <ul>
   <li> I joined a team of engineers at Childhood Cancer Society as a software engineer intern to help develop the organization's website
   <li> I'm learning Algorithms and Databases at OSU
-  <li> I will be a teaching assistant for a computer science course at OSU for the 3rd quarter
+  <li> I am a teaching assistant for a computer science course at OSU for the 3rd quarter
 </ul>
