@@ -1,8 +1,8 @@
-# Welcome to my repo! 👋
-Want to connect? <a href="https://www.linkedin.com/in/ken-steckler/">LinkedIn</a> 🤝 <br />
-Come check out my <a href="https://ken-steckler.netlify.app/">Portfolio</a> 💻
+# Welcome to my repo! 
+Want to connect? <a href="https://www.linkedin.com/in/ken-steckler/">LinkedIn</a> <br />
+Come check out my <a href="https://ken-steckler.netlify.app/">Portfolio</a>
 
-## My Bio 🏻
+## My Bio 
 <ul>
   <li> Pursuing a Bachelor of Science in Computer Science degree at Oregon State University (go Beavs!)
   <li> I'm currently a junior with an expected graduation of 2025
